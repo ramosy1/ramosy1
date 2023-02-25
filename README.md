@@ -8,22 +8,22 @@
 
 ## 💻 Technical Skills
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=appveyor=JavaScript&color=#F7DF1E)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=appveyor=Java&color=#ED8B00)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=appveyor=HTML5&color=#E34F26)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=appveyor=SpringBoot&color=#EDB33F)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=appveyor=MySQL&color=#336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=appveyor=SQLite&color=#003B57)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=#F7DF1E)
+![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Java&color=#ED8B00)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=HTML5&color=#E34F26)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=for-the-badge&logo=SpringBoot&color=#6DB33F)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=for-the-badge&logo=MySQL&color=#336791)
+![](https://img.shields.io/badge/Code-SQLite-informational?style=for-the-badge&logo=SQLite&color=#003B57)
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=appveyor=Bootstrap&color=#7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=appveyor=CSS3&color=#1572B6)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=for-the-badge&logo=Bootstrap&color=#7952B3)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=for-the-badge&logo=CSS3&color=#1572B6)
 
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=appveyor=NPM&color=#CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=appveyor=Heroku&color=#340098)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=appveyor=Git&color=#F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=appveyor=GitHub&color=#181717)
-![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=appveyor=VisualStudioCode&color=#007ACC)
-![](https://img.shields.io/badge/Tools-IntellijIDEA-informational?style=flat&logo=appveyor=IntellijIdea&color=#000000)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=NPM&color=#CB3837)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=for-the-badge&logo=Heroku&color=#430098)
+![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&color=#F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&color=#181717)
+![](https://img.shields.io/badge/Tools-VSCode-informational?style=for-the-badge&logo=VisualStudioCode&color=#007ACC)
+![](https://img.shields.io/badge/Tools-IntellijIDEA-informational?style=for-the-badge&logo=IntellijIdea&color=#000000)
 
 </br>
 
