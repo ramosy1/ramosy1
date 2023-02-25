@@ -8,32 +8,32 @@
 
 ## 💻 Technical Skills
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=#D7A2A1)
-![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Java&color=#D7A2A1)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=HTML5&color=#D7A2A1)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=for-the-badge&logo=SpringBoot&color=#D7A2A1)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=for-the-badge&logo=MySQL&color=#D7A2A1)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=for-the-badge&logo=SQLite&color=#D7A2A1)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=appveyor=JavaScript&color=#F7DF1E)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=appveyor=Java&color=#ED8B00)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=appveyor=HTML5&color=#E34F26)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=appveyor=SpringBoot&color=#EDB33F)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=appveyor=MySQL&color=#336791)
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=appveyor=SQLite&color=#003B57)
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=for-the-badge&logo=Bootstrap&color=#FDDCD9)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=for-the-badge&logo=CSS3&color=#FDDCD9)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=appveyor=Bootstrap&color=#7952B3)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=appveyor=CSS3&color=#1572B6)
 
-![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=NPM&color=#D6CCD1)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=for-the-badge&logo=Heroku&color=#D6CCD1)
-![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&color=#D6CCD1)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&color=#D6CCD1)
-![](https://img.shields.io/badge/Tools-VSCode-informational?style=for-the-badge&logo=VisualStudioCode&color=#D6CCD1)
-![](https://img.shields.io/badge/Tools-IntellijIDEA-informational?style=for-the-badge&logo=IntellijIdea&color=#D6CCD1)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=appveyor=NPM&color=#CB3837)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=appveyor=Heroku&color=#340098)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=appveyor=Git&color=#F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=appveyor=GitHub&color=#181717)
+![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=appveyor=VisualStudioCode&color=#007ACC)
+![](https://img.shields.io/badge/Tools-IntellijIDEA-informational?style=flat&logo=appveyor=IntellijIdea&color=#000000)
 
 </br>
 
-## 📈 Github Stats
+<!-- ## 📈 Github Stats
 
 [![](https://raw.githubusercontent.com/ramosy1/ramosy1/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ramosy1/ramosy1/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ramosy1/ramosy1/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ramosy1/ramosy1/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ramosy1/ramosy1/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-</br>
+</br> -->
 
 ## 🤔 Have questions or inquiries? 
 
