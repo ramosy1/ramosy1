@@ -1,4 +1,4 @@
-![Yanelin Ramos Full Stack Developer Github Banner](https://user-images.githubusercontent.com/104784989/221443482-088b2bb8-7593-4ea3-bafc-c30b18a39438.gif)
+![Yanelin Ramos Full Stack Developer Github Banner 640X320](https://user-images.githubusercontent.com/104784989/221443893-937594fc-c011-4247-84a6-ffb069a97094.gif)
 
 ##  👋 Hi, I’m Yanelin Ramos
 - 👩‍🎓 I am FullStack Web Developer and a graduate of Generation USA's program. 
