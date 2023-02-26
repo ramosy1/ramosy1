@@ -1,7 +1,6 @@
-![Yanelin Ramos Full Stack Developer Github Banner 640X320](https://user-images.githubusercontent.com/104784989/221443893-937594fc-c011-4247-84a6-ffb069a97094.gif)
 
 ##  👋 Hi, I’m Yanelin Ramos
-- 👩‍🎓 I am FullStack Web Developer and a graduate of Generation USA's program. 
+- 👩‍🎓 I am FullStack Developer and a graduate of Generation USA's program. 
 - 💞️ I'm also an individual who's curious by nature and fueled by the love of learning.
 - 📍 I am currently residing in Tampa, Florida.
 - 🤝 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanelinramos/)
