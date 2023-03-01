@@ -1,5 +1,6 @@
+![gGthub cover](https://user-images.githubusercontent.com/104784989/221913229-3d296a3a-f6a9-4d2b-8dc0-25d8561028a7.gif)
 
-##  👋 Hi, I’m Yanelin Ramos
+##  <div align=center>👋 Hi, I’m Yanelin Ramos</div>
 - 👩‍🎓 I am FullStack Developer and a graduate of Generation USA's program. 
 - 💞️ I'm also an individual who's curious by nature and fueled by the love of learning.
 - 📍 I am currently residing in Tampa, Florida.
@@ -7,36 +8,65 @@
 
 </br>
 
-## 💻 Technical Skills
+## <div align=center>💻 Technical Skills</div>
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=#F7DF1E)
-![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Java&color=#ED8B00)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=HTML5&color=#E34F26)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=for-the-badge&logo=SpringBoot&color=#6DB33F)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=for-the-badge&logo=MySQL&color=#336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=for-the-badge&logo=SQLite&color=#003B57)
+![](https://img.shields.io/badge/Code-JavaScript-lightgrey?style=for-the-badge&logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/Code-Java-lightgrey?style=for-the-badge&logo=Java&logoColor=white)
+![](https://img.shields.io/badge/Code-HTML5-lightgrey?style=for-the-badge&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/Code-SpringBoot-lightgrey?style=for-the-badge&logo=SpringBoot&logoColor=white)
+![](https://img.shields.io/badge/Code-MySQL-lightgrey?style=for-the-badge&logo=MySQL&logoColor=white)
+![](https://img.shields.io/badge/Code-SQLite-lightgrey?style=for-the-badge&logo=SQLite&logoColor=white)
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=for-the-badge&logo=Bootstrap&color=#7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=for-the-badge&logo=CSS3&color=#1572B6)
+![](https://img.shields.io/badge/Style-Bootstrap-lightgrey?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Style-CSS3-lightgrey?style=for-the-badge&logo=CSS3&logoColor=white)
 
-![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=NPM&color=#CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=for-the-badge&logo=Heroku&color=#430098)
-![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&color=#F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&color=#181717)
-![](https://img.shields.io/badge/Tools-VSCode-informational?style=for-the-badge&logo=VisualStudioCode&color=#007ACC)
-![](https://img.shields.io/badge/Tools-IntellijIDEA-informational?style=for-the-badge&logo=IntellijIdea&color=#000000)
-
-</br>
-
-<!-- ## 📈 Github Stats
-
-[![](https://raw.githubusercontent.com/ramosy1/ramosy1/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ramosy1/ramosy1/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ramosy1/ramosy1/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ramosy1/ramosy1/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ramosy1/ramosy1/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+![](https://img.shields.io/badge/Tools-NPM-lightgrey?style=for-the-badge&logo=NPM&logoColor=white)
+![](https://img.shields.io/badge/Tools-Heroku-lightgrey?style=for-the-badge&logo=Heroku&logoColor=white)
+![](https://img.shields.io/badge/Tools-Git-lightgrey?style=for-the-badge&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/Tools-GitHub-lightgrey?style=for-the-badge&logo=GitHub&logoColor=white)
+![](https://img.shields.io/badge/Tools-VSCode-lightgrey?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![](https://img.shields.io/badge/Tools-IntellijIDEA-lightgrey?style=for-the-badge&logo=IntellijIdea&logoColor=white)
 
 </br>
 
-## 🤔 Have questions or inquiries? 
+## <div align=center>Portfolio</div> 
+
+[![YANELIN RAMOS](https://user-images.githubusercontent.com/104784989/221943116-108b326f-e50e-4087-9476-61673fa5de4f.png)](https://ramosy1.github.io/portfolio)
+
+</br>
+
+## <div align=center>Other Projects</div> 
+
+<table>
+ <tbody>
+  <td >
+   <h3 align = "center">Magic 8-Ball Fortune Teller</h3>
+ 
+   </br>
+ 
+   <a href="https://ramosy1.github.io/magic8ball/" target="blank" rel="nofollow">![Project-magic8ball2](https://user-images.githubusercontent.com/104784989/221997804-2fdb3c88-fef8-422b-aab5-a08441f9980e.gif)</a>
+   <p>This project is of a Magic 8-Ball for those questioning what their future will hold.</p>
+   <b>Link to project: </b><a href="https://ramosy1.github.io/magic8ball/" target="blank" rel="nofollow">Magic 8-Ball></a>
+  </td>
+  
+  <td width="52%">
+
+   <h3 align = "center">Random Quote Generator API</h3>
+  
+   </br>
+
+   <a href="https://ramosy1.github.io/random_quote_generator/" target="blank" rel="nofollow">![Random Quote Generator2](https://user-images.githubusercontent.com/104784989/222009158-3bb2b572-6d6c-4724-8e97-7a6e632a7c0d.jpg)</a>
+   <p>Get an instant uplift when you generate a motivativational quote from this API</p>
+   <b>Link to project: </b><a href="https://ramosy1.github.io/random_quote_generator/" target="blank" rel="nofollow">Quote Generator</a>
+   
+  </td>
+ </tbody>
+</table>
+
+</br>
+
+
+## <div align=center>🤔 Have questions or inquiries?</div> 
 
 Connect with me: 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanelinramos/)
