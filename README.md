@@ -29,12 +29,6 @@
 
 &nbsp; 
 
-<div align=left >
-<img align="" width="47%" src="https://github-readme-stats.vercel.app/api?username=ramosy1&show_icons=true&theme=graywhite" /> &nbsp; &nbsp; 
-<img align="" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramosy1&layout=compact&show_icons=true&theme=graywhite" /></div>
-
-&nbsp; 
-
 ## <div align=center>Portfolio</div> 
 
 [![YANELIN RAMOS](https://user-images.githubusercontent.com/104784989/221943116-108b326f-e50e-4087-9476-61673fa5de4f.png)](https://ramosy1.github.io/portfolio)
