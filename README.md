@@ -1,10 +1,14 @@
 ![gGthub cover](https://user-images.githubusercontent.com/104784989/221913229-3d296a3a-f6a9-4d2b-8dc0-25d8561028a7.gif)
 
 ##  <div align=center>👋 Hi, I’m Yanelin Ramos</div>
-- 👩‍🎓 I am FullStack Developer and a graduate of Generation USA's program. 
-- 💞️ I'm also an individual who's curious by nature and fueled by the love of learning.
-- 📍 I am currently residing in Tampa, Florida.
-- 🤝 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanelinramos/)
+I'm a dedicated full stack web developer based in Tampa, FL, deeply committed to crafting seamless user experiences through a fusion of intuitive design and efficient development practices. My professional journey has traversed diverse industries including web development, social media, and healthcare, offering me a rich blend of experiences and insights.
+
+My pursuit of excellence is reflected in my academic credentials, holding a Bachelor of Science in Interdisciplinary Health Sciences. I maintain an unwavering dedication to continuously advancing my technical skills, fostering effective communication, promoting collaborative teamwork, and refining my robust problem-solving abilities.
+
+Beyond my coding endeavors, I find fulfillment in the culinary arts, relishing baking adventures, enjoying movies, attending live concerts and theater performances, and exploring new destinations whenever possible.
+
+Let's connect and explore opportunities! Whether you're seeking collaboration or wish to delve into my portfolio, I'm enthusiastic about the prospect of embarking on a journey of growth together.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanelinramos/)
 
 &nbsp; 
 
